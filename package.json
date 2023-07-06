@@ -1,20 +1,20 @@
 {
-    "name": "peacock",
-    "displayName": "Peacock",
-    "description": "A vibrant yet elegant dark VS Code theme",
-    "publisher": "marnix",
-    "version": "1.1.6",
+    "name": "peacock-darker",
+    "displayName": "Peacock Darker",
+    "description": "Inspired by Peacock, a vibrant yet elegant dark VS Code theme",
+    "publisher": "lognseth",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.60.0"
     },
     "icon": "images/icon.png",
     "author": {
-        "name": "Manix Koops",
-        "email": "marnixkoops@gmail.com",
-        "url": "https://github.com/marnixkoops"
+        "name": "Mikael Lognseth",
+        "email": "mika@lognseth.io",
+        "url": "https://github.com/lognseth"
     },
     "repository": {
-        "url": "https://github.com/marnixkoops/peacock",
+        "url": "https://github.com/lognseth/peacock-darker",
         "type": "git"
     },
     "categories": [
@@ -23,7 +23,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Peacock",
+                "label": "Peacock-Darker",
                 "uiTheme": "vs-dark",
                 "path": "./themes/peacock-color-theme.json"
             }
